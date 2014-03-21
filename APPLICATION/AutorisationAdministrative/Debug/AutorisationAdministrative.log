@@ -1,0 +1,43 @@
+﻿La génération a démarré 28/05/2013 18:20:58.
+     1>Projet "E:\zdoc\zperso\mes projets\cpp\AutorisationAdministrative\APPLICATION\AutorisationAdministrative\AutorisationAdministrative.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\AutorisationAdministrative.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       GenerateTargetFrameworkMonikerAttribute:
+       La cible est ignorée "GenerateTargetFrameworkMonikerAttribute", car tous les fichiers de sortie sont à jour par rapport aux fichiers d'entrée.
+       ClCompile:
+         Toutes les sorties sont à jour.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AutorisationAdministrative.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AutorisationAdministrative.cpp /clr:nostdlib 
+         AutorisationAdministrative.cpp
+     1>e:\zdoc\zperso\mes projets\cpp\autorisationadministrative\application\autorisationadministrative\formDemande.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+     1>e:\zdoc\zperso\mes projets\cpp\autorisationadministrative\application\autorisationadministrative\formDemande.h(1086): warning C4101: 'e' : variable locale non référencée
+     1>e:\zdoc\zperso\mes projets\cpp\autorisationadministrative\application\autorisationadministrative\formDemande.h(1130): warning C4101: 'e' : variable locale non référencée
+     1>e:\zdoc\zperso\mes projets\cpp\autorisationadministrative\application\autorisationadministrative\formVoirAutorisation.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+     1>e:\zdoc\zperso\mes projets\cpp\autorisationadministrative\application\autorisationadministrative\formMiseAjours.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+     1>e:\zdoc\zperso\mes projets\cpp\autorisationadministrative\application\autorisationadministrative\formMiseAjours.h(1464): warning C4101: 'e' : variable locale non référencée
+     1>e:\zdoc\zperso\mes projets\cpp\autorisationadministrative\application\autorisationadministrative\formMiseAjours.h(1512): warning C4101: 'e' : variable locale non référencée
+         Toutes les sorties sont à jour.
+       CoreResGen:
+         Toutes les sorties sont à jour.
+       ResourceCompile:
+         Toutes les sorties sont à jour.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\zdoc\zperso\mes projets\cpp\AutorisationAdministrative\APPLICATION\Debug\AutorisationAdministrative.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\AutorisationAdministrative.Form1.resources /ASSEMBLYRESOURCE:Debug\AutorisationAdministrative.formDemande.resources /ASSEMBLYRESOURCE:Debug\AutorisationAdministrative.formMiseAjours.resources /ASSEMBLYRESOURCE:Debug\AutorisationAdministrative.formVoirAutorisation.resources /MANIFEST /ManifestFile:"Debug\AutorisationAdministrative.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\zdoc\zperso\mes projets\cpp\AutorisationAdministrative\APPLICATION\Debug\AutorisationAdministrative.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\AutorisationAdministrative.obj
+         Debug\donnees.obj
+         Debug\formDemande.obj
+         Debug\formMiseAjours.obj
+         Debug\formVoirAutorisation.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         AutorisationAdministrative.vcxproj -> E:\zdoc\zperso\mes projets\cpp\AutorisationAdministrative\APPLICATION\Debug\AutorisationAdministrative.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\zdoc\zperso\mes projets\cpp\AutorisationAdministrative\APPLICATION\Debug\AutorisationAdministrative.exe;#1" /manifest Debug\AutorisationAdministrative.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\AutorisationAdministrative.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\AutorisationAdministrative.lastbuildstate".
+     1>Génération du projet "E:\zdoc\zperso\mes projets\cpp\AutorisationAdministrative\APPLICATION\AutorisationAdministrative\AutorisationAdministrative.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:04.25
